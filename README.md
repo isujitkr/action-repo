@@ -11,7 +11,7 @@ The goal of this repository is to generate GitHub actions such as:
 - Pull request merges
 
 These events are sent via GitHub Webhooks to the `webhook-repo`, where they are
-processed and stored in MongoDB.
+processed and stored in MongoDB. 
 
 ## How it works
 
